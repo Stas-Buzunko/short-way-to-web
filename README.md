@@ -45,6 +45,7 @@
 - a
 - input
 - table + tr + td
+</br>
 Все что связано с HTML смотрим здесь www.w3schools.com/
 
 Время на изучение 1 день.
