@@ -67,11 +67,13 @@ https://facebook.github.io/react/tutorial/tutorial.html
 
 На него 2-4 дня, чтобы разобраться. 
 
-Если с английским беда, то учим английский и ищем инфу на русском, за инфу на русском отвечать не могу.
+Если с английским беда, то учим английский и читаем перевод документации здесь
 
-https://habrahabr.ru/post/248799/
+https://abraxabra.ru/react.js/bystryy-start/ustanovka-react-js/
 </br>
-https://habrahabr.ru/post/279249/
+и
+</br>
+https://maxfarseer.gitbooks.io/react-course-ru/content/
 
 После прохождения первых туториалов по реакту делаем пачку практических заданий, которые я выложу чуть позже.
 
